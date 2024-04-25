@@ -1,0 +1,38 @@
+Find and work with different types of Alerts
+
+
+Case Study: Find and work with different types of Alerts. 
+
+Problem Statement:   
+
+Find and work with different types of Alerts. 
+
+Click a button and work with an Alert having only Ok button. 
+Click a button and work with an Alert having both Ok and Cancel buttons. 
+Click a button and work with an Alert having prompt box. 
+Get the message associated with each Alert box. 
+Suggested site: http://cookbook.seleniumacademy.com/Alerts.html 
+
+Detailed Description: 
+
+Open the web application, http://cookbook.seleniumacademy.com/Alerts.html 
+Click on Show alert box button. 
+Check the message displayed on Alert box is "Hello! I am an alert box!". 
+Take Screenshot.
+Click on Ok button in the message box. 
+Click on first Try it button. 
+Check the message displayed on Alert box is "Press a button!". 
+Take Screenshot.
+Click on Cancel button in the message box. 
+Click on second Try it button. 
+Take Screenshot.
+Enter your name in the Alert box as "Harry Potter". 
+Click on Ok button in the prompt box.
+Take Screenshot.
+Close the web application. 
+Key Automation Scope:  
+
+Working with an alert box having only Ok button. 
+Working with an alert box having Ok button and Cancel buttons. 
+Working with an alert box having prompt box. 
+Get the text of message box.
